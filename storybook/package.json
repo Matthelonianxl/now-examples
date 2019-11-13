@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.11.0"
   },
   "scripts": {
     "build": "build-storybook -c .storybook -o public",
